@@ -1,0 +1,2 @@
+e77c12f29c3f39c54c0f8c357b87fc89e8ff4c9bb87dababe6fa9c4e686f7427  TotK-Setup-0.3.11-windows.zip
+5999699362ee7651840a2259a06f1e40eb5e266e33f0c75ff70db35452d18456  TotK-Setup-x86_64-0.3.11-linux.AppImage
